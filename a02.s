@@ -1,4 +1,6 @@
 .section .bss
+v1:
+	
 .section .data
 msg:
 	.ascii "hello this message is from asm function"
