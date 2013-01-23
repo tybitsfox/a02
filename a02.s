@@ -1,6 +1,6 @@
 .section .bss
 v1:
-	
+	.space 100,0
 .section .data
 msg:
 	.ascii "hello this message is from asm function"
